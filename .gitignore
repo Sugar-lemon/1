@@ -1,4 +1,4 @@
 */1-backups
 *.zip
-fp-info-cache.*
-*.kicad_prl
+fp-info-cache
+~*
